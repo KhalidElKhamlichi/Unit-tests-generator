@@ -6,7 +6,7 @@
   "scripts": {
     "test": "mocha"
   },
-  "author": "",
+  "author": "Khalid",
   "license": "ISC",
   "dependencies": {
     "js-yaml": "^3.9.1"
