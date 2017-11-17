@@ -60,4 +60,4 @@ exports.parseAnnotations = function(keyword, input, output)
     //console.log(objs);
 }
 
-exports.parseAnnotations('@test_gen', 'annotated_functions.js', 'conf.yml');
+exports.parseAnnotations(process.argv[2], process.argv[3], 'conf.yml');
