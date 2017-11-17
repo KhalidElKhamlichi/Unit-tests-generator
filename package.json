@@ -1,0 +1,19 @@
+{
+  "name": "tests_generation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "annotation_run.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "js-yaml": "^3.9.1"
+  },
+  "devDependencies": {
+    "chai": "^4.1.1",
+    "js-combinatorics": "^0.5.2",
+    "mocha": "^3.5.0"
+  }
+}

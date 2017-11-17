@@ -1,0 +1,8 @@
+testfunction1:
+  return: String
+  param1: Number
+  param2: Number
+testfunction2:
+  return: Object
+  param1: String
+  param2: Number
